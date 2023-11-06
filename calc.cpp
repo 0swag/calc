@@ -15,7 +15,7 @@ int main() {
     "░          ░   ▒     ░ ░   ░         ░░░ ░ ░   ░ ░    ░   ▒    ░      ░ ░ ░ ▒    ░░   ░ \n"
     "░ ░            ░  ░    ░  ░░ ░         ░         ░  ░     ░  ░            ░ ░     ░     \n"
     "░                          ░                                                            " << '\n';
-  std::cout << "Enter an operation (+ - / *) ";
+  std::cout << "Enter an operator (+ - / *) ";
   std::cin >> op;
   std::cout << "Enter the first number: ";
   std::cin >> n1;
